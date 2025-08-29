@@ -6,7 +6,7 @@
   - Learning C++
   - Learning Embedded Programming
   - BLE Audio device
-  - 
+  - much more
 - 🌱 I’m currently learning _literally everything_
 - 🤔 I’m looking for help with Seizing the Means of Production
 - 📫 How to reach me:
